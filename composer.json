@@ -1,6 +1,6 @@
 {
   "name": "khyrie/todo",
-  "description": "A todo",
+  "description": "a todo package for laravel",
   "license": "MIT",
   "keywords": [
     "todo"
@@ -8,8 +8,8 @@
   "type": "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "Ueki Chinos",
+      "email": "megatzulkhairi@gmail.com"
     }
   ],
   "require": {
