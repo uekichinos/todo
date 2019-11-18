@@ -2,5 +2,6 @@
 
 namespace khyrie\Todo;
 
-class Todo{
+class Todo
+{
 }
