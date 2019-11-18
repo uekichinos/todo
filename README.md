@@ -25,7 +25,7 @@ php artisan vendor:publish --provider="khyrie\Todo\ServiceProvider" --tag="confi
 
 ## Usage
 
-CHANGE ME
+CHANGE ME 
 
 ## Security
 
