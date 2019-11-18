@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/uekichinos/todo.svg?branch=master)](https://travis-ci.org/uekichinos/todo)
 [![styleci](https://styleci.io/repos/222447863/shield)](https://styleci.io/repos/222447863)
-[![Coverage Status](https://coveralls.io/repos/github/khyrie/todo/badge.svg?branch=master)](https://coveralls.io/github/khyrie/todo?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/uekichinos/todo/badge.svg?branch=master)](https://coveralls.io/github/uekichinos/todo?branch=master)
 
 [![Packagist](https://img.shields.io/packagist/v/khyrie/todo.svg)](https://packagist.org/packages/khyrie/todo)
 [![Packagist](https://poser.pugx.org/khyrie/todo/d/total.svg)](https://packagist.org/packages/khyrie/todo)
