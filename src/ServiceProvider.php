@@ -4,7 +4,7 @@ namespace khyrie\Todo;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
-    const CONFIG_PATH = __DIR__ . '/../config/todo.php';
+    const CONFIG_PATH = __DIR__.'/../config/todo.php';
 
     public function boot()
     {
