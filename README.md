@@ -29,13 +29,8 @@ CHANGE ME
 
 ## Security
 
-If you discover any security related issues, please email 
-instead of using the issue tracker.
+If you discover any security related issues, please email instead of using the issue tracker.
 
 ## Credits
 
-- [](https://github.com/khyrie/todo)
-- [All contributors](https://github.com/khyrie/todo/graphs/contributors)
-
-This package is bootstrapped with the help of
-[melihovv/laravel-package-generator](https://github.com/melihovv/laravel-package-generator).
+This package is bootstrapped with the help of [melihovv/laravel-package-generator](https://github.com/melihovv/laravel-package-generator).
