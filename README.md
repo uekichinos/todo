@@ -1,7 +1,7 @@
 # Todo
 
-[![Build Status](https://travis-ci.org/khyrie/todo.svg?branch=master)](https://travis-ci.org/khyrie/todo)
-[![styleci](https://styleci.io/repos/CHANGEME/shield)](https://styleci.io/repos/CHANGEME)
+[![Build Status](https://travis-ci.org/uekichinos/todo.svg?branch=master)](https://travis-ci.org/uekichinos/todo)
+[![styleci](https://styleci.io/repos/222447863/shield)](https://styleci.io/repos/222447863)
 [![Coverage Status](https://coveralls.io/repos/github/khyrie/todo/badge.svg?branch=master)](https://coveralls.io/github/khyrie/todo?branch=master)
 
 [![Packagist](https://img.shields.io/packagist/v/khyrie/todo.svg)](https://packagist.org/packages/khyrie/todo)
