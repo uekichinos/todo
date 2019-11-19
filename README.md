@@ -1,8 +1,8 @@
 # Todo
 
-[![Packagist](https://img.shields.io/packagist/v/khyrie/todo.svg)](https://packagist.org/packages/khyrie/todo)
-[![Packagist](https://poser.pugx.org/khyrie/todo/d/total.svg)](https://packagist.org/packages/khyrie/todo)
-[![Packagist](https://img.shields.io/packagist/l/khyrie/todo.svg)](https://packagist.org/packages/khyrie/todo)
+[![Packagist](https://img.shields.io/packagist/v/khyrie/todo.svg?style=plastic)](https://packagist.org/packages/khyrie/todo)
+[![Packagist](https://poser.pugx.org/khyrie/todo/d/total.svg?style=plastic)](https://packagist.org/packages/khyrie/todo)
+[![Packagist](https://img.shields.io/packagist/l/khyrie/todo.svg?style=plastic)](https://packagist.org/packages/khyrie/todo)
 [![styleci](https://styleci.io/repos/222447863/shield?style=plastic)](https://styleci.io/repos/222447863)
 
 Package description: CHANGE ME
